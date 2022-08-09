@@ -11,13 +11,13 @@ import io
 import requests
 import math
 client = commands.Bot(command_prefix='!',case_insensitive=True)
-TOKEN=('')#<------------------- your bot token!
+TOKEN=('MTAwNjE5NDMwNTM4NTM2OTYwMA.Gy72i2.j_fEPOAYansbGs3RmCbiMFFN19L-bzDdPp5F4k')#<------------------- your bot token!
 
 client.remove_command('help')
 
-buyers  = [897946536779063398, 2, 3] 
-admins  = [897946536779063398, 2, 3]              
-ownerList  = [897946536779063398, 2, 3]
+buyers  = [1006194116109017128, 2, 3] 
+admins  = [1006194116109017128, 2, 3]              
+ownerList  = [1006194116109017128, 2, 3]
 
 #ARG1 = IP
 #ARG2 = PORT
